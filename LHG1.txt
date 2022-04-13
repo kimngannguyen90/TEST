@@ -1,1 +1,2 @@
 git remote add origin https://github.com/kimngannguyen90/TEST.git
+My name Ngan
